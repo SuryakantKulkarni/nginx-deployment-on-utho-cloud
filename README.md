@@ -106,7 +106,7 @@ Detailed project documentation is available inside the `docs/` folder.
 
 ---
 
-## 📊 Project Outcome
+## Project Outcome
 
 This project helped in understanding:
 - Cloud instance provisioning
